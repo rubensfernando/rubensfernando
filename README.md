@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-- 🌱 I’m a brazilian Front-end developer
+- 🌱 I’m a Brazilian Front-end developer working at Folha de S.Paulo, one of the most important newspapers in Brazil
 - 👨‍💻 I am passionate about Design and Web Development
 - 📖 I’m currently learning [Svelte](https://svelte.dev/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/).
 - 📫 How to reach me: [@rubensfernando](https://twitter.com/rubensfernando) on Twitter
