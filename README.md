@@ -9,7 +9,7 @@
 
 <br />
 
-📊 **The last seven days, I spent my time working on**
+## 📊 The last seven days, I spent my time working on
 
 <!--START_SECTION:waka-->
 ```text
@@ -26,5 +26,12 @@ Stylus       52 mins         ██▓░░░░░░░░░░░░░░
 ![Rubens Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensfernando&show_icons=true&hide_border=true)
 
 <br />
+
+## Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rubensfernando.rubensfernando)
