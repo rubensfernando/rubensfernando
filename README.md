@@ -30,10 +30,10 @@ Stylus       ████▒░░░░░░░░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  12,936 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 2,959 tasks so far           
+🏆  12,942 Karma Points           
+🌸  Completed 3 tasks today           
+🗓  Completed 5 tasks this week           
+✅  Completed 2,960 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
