@@ -1,16 +1,23 @@
-### Hi I'm Rubens Fernando
+# Hi I'm Rubens Fernando
 
-<!--
-**rubensfernando/rubensfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+- 🌱 I’m a brazilian Front-end developer
+- 👨‍💻 I am passionate about Design and Web Development
+- 📖 I’m currently learning [Svelte](https://svelte.dev/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/).
+- 📫 How to reach me: [@rubensfernando](https://twitter.com/rubensfernando) on Twitter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+📊 **The last seven days, I spent my time working on**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+
+![Rubens Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensfernando&show_icons=true&hide_border=true)
+
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rubensfernando.rubensfernando)
