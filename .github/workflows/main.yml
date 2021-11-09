@@ -6,7 +6,7 @@ on:
     - cron: '0 */3 * * *'
 
 jobs:
-  update-readme:
+  update-readme-wakatime:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
@@ -16,3 +16,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TIME: false
           COMMIT_MESSAGE: Updated the Readme
+  update-readme-todoist:
+    name: Update todoist stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: true
