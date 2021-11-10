@@ -31,7 +31,7 @@ Stylus       ████▒░░░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  12,945 Karma Points           
-🌸  Completed 3 tasks today           
+🌸  Completed 0 tasks today           
 🗓  Completed 5 tasks this week           
 ✅  Completed 2,960 tasks so far           
 ⏳  Longest streak is 18 days
