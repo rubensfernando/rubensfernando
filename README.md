@@ -30,7 +30,7 @@ Bash         ███▓░░░░░░░░░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  12,970 Karma Points           
+🏆  12,976 Karma Points           
 🌸  Completed 0 tasks today           
 🗓  Completed 10 tasks this week           
 ✅  Completed 2,965 tasks so far           
