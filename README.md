@@ -31,7 +31,7 @@ Bash         ███▓░░░░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  12,983 Karma Points           
-🌸  Completed 2 tasks today           
+🌸  Completed 0 tasks today           
 🗓  Completed 12 tasks this week           
 ✅  Completed 2,967 tasks so far           
 ⏳  Longest streak is 18 days
