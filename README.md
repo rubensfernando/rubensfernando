@@ -30,10 +30,10 @@ Text         ███░░░░░░░░░░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,045 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 18 tasks this week           
-✅  Completed 2,987 tasks so far           
+🏆  13,055 Karma Points           
+🌸  Completed 3 tasks today           
+🗓  Completed 21 tasks this week           
+✅  Completed 2,990 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
