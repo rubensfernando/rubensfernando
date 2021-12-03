@@ -30,10 +30,10 @@ Docker       ███░░░░░░░░░░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,188 Karma Points           
-🌸  Completed 8 tasks today           
-🗓  Completed 21 tasks this week           
-✅  Completed 3,034 tasks so far           
+🏆  13,204 Karma Points           
+🌸  Completed 13 tasks today           
+🗓  Completed 26 tasks this week           
+✅  Completed 3,039 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
