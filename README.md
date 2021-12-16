@@ -30,10 +30,10 @@ Bash         ██▓░░░░░░░░░░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,316 Karma Points           
-🌸  Completed 4 tasks today           
-🗓  Completed 6 tasks this week           
-✅  Completed 3,073 tasks so far           
+🏆  13,322 Karma Points           
+🌸  Completed 5 tasks today           
+🗓  Completed 7 tasks this week           
+✅  Completed 3,074 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
