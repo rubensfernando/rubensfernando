@@ -30,10 +30,10 @@ JavaScript                 █▓░░░░░░░░░░░░░░░�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,430 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 18 tasks this week           
-✅  Completed 3,123 tasks so far           
+🏆  13,446 Karma Points           
+🌸  Completed 13 tasks today           
+🗓  Completed 29 tasks this week           
+✅  Completed 3,134 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
