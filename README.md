@@ -32,7 +32,7 @@ Pug          █████░░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:START -->
 🏆  13,462 Karma Points           
 🌸  Completed 0 tasks today           
-🗓  Completed 29 tasks this week           
+🗓  Completed 0 tasks this week           
 ✅  Completed 3,134 tasks so far           
 ⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
