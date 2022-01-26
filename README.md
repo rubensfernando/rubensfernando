@@ -30,7 +30,7 @@ HTML       ███░░░░░░░░░░░░░░░░░░░░
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  13,484 Karma Points           
+🏆  13,500 Karma Points           
 🌸  Completed 6 tasks today           
 🗓  Completed 6 tasks this week           
 ✅  Completed 3,146 tasks so far           
