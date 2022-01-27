@@ -9,6 +9,11 @@
 
 <br />
 
+<a href="https://github.com/rubensfernando">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensfernando&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensfernando&layout=compact" />
+  </a>
+<br />
 <div>
   <span>
     <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -24,24 +29,6 @@
   </span>
 </div>
 
-## 📊 The last seven days, I spent my time working on
-
-<!--START_SECTION:waka-->
-```text
-Bash       ██████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   25.32 % 
-JSON       ███████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.10 % 
-INI        ██████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Markdown   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-C++        ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-```
-<!--END_SECTION:waka-->
-
-<br />
-
-<a href="https://github.com/rubensfernando">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensfernando&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensfernando&layout=compact" />
-  </a>
 
 <br />
 
